@@ -1,1 +1,1 @@
-
+The Practice1_testing_Cultural.pdf file contains the deliverable for the assignment. It includes the project idea and its code with explanation. It includes a snapshot of a successful test output at the end.
